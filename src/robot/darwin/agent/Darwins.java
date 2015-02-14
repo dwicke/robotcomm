@@ -4,9 +4,9 @@
  * and open the template in the editor.
  */
 
-package sim.app.bounties.robot.darwin.agent;
+package robot.darwin.agent;
 
-import sim.app.bounties.robot.darwin.agent.Darwin;
+import robot.darwin.agent.Darwin;
 
 /**
  *

@@ -4,9 +4,9 @@
  * and open the template in the editor.
  */
 
-package sim.app.bounties.robot.flockbots.comm;
+package robot.flockbots.comm;
 
-import sim.app.bounties.robot.comm.DefaultParser;
+import robot.comm.DefaultParser;
 
 /**
  *

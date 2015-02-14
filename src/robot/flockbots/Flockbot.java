@@ -4,15 +4,15 @@
  * and open the template in the editor.
  */
 
-package sim.app.bounties.robot.flockbots;
+package robot.flockbots;
 
 import java.io.IOException;
-import sim.app.bounties.robot.Robot;
-import sim.app.bounties.robot.behaviors.CommandMotions;
-import sim.app.bounties.robot.comm.Communication;
-import sim.app.bounties.robot.comm.Parse;
-import sim.app.bounties.robot.flockbots.comm.FlockbotComm;
-import sim.app.bounties.robot.flockbots.comm.FlockbotParser;
+import robot.Robot;
+import robot.behaviors.CommandMotions;
+import robot.comm.Communication;
+import robot.comm.Parse;
+import robot.flockbots.comm.FlockbotComm;
+import robot.flockbots.comm.FlockbotParser;
 
 /**
  * Models the actual flockbot has the comm. to send and receive msgs.

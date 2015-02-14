@@ -4,10 +4,10 @@
  * and open the template in the editor.
  */
 
-package sim.app.bounties.robot;
+package robot;
 
-import sim.app.bounties.robot.behaviors.CommandMotions;
-import sim.app.bounties.robot.comm.Parse;
+import robot.behaviors.CommandMotions;
+import robot.comm.Parse;
 
 /**
  * An interface for physical robots.  Standard methods that will be used.

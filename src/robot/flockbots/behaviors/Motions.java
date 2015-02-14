@@ -4,9 +4,9 @@
  * and open the template in the editor.
  */
 
-package sim.app.bounties.robot.flockbots.behaviors;
+package robot.flockbots.behaviors;
 
-import sim.app.bounties.robot.behaviors.CommandMotions;
+import robot.behaviors.CommandMotions;
 
 /**
  * defines flockbot motions

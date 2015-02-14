@@ -4,10 +4,10 @@
  * and open the template in the editor.
  */
 
-package sim.app.bounties.robot.darwin.behaviors;
+package robot.darwin.behaviors;
 
 import com.google.gson.Gson;
-import sim.app.bounties.robot.behaviors.CommandMotions;
+import robot.behaviors.CommandMotions;
 
 /**
  *

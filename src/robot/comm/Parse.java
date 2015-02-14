@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package sim.app.bounties.robot.comm;
+package robot.comm;
 
 /**
  * Takes input and will then parse it.  Implementers will want to write a method

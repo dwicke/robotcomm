@@ -4,18 +4,18 @@
  * and open the template in the editor.
  */
 
-package sim.app.bounties.robot.darwin.agent;
+package robot.darwin.agent;
 
 import java.io.IOException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
-import sim.app.bounties.robot.Robot;
-import sim.app.bounties.robot.behaviors.CommandMotions;
-import sim.app.bounties.robot.comm.Communication;
-import sim.app.bounties.robot.comm.Parse;
-import sim.app.bounties.robot.darwin.comm.DarwinComm;
-import sim.app.bounties.robot.darwin.comm.DarwinParser;
+import robot.Robot;
+import robot.behaviors.CommandMotions;
+import robot.comm.Communication;
+import robot.comm.Parse;
+import robot.darwin.comm.DarwinComm;
+import robot.darwin.comm.DarwinParser;
 
 /**
  *

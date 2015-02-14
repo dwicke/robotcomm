@@ -5,7 +5,7 @@
  * and open the template in the editor.
  */
 
-package sim.app.bounties.robot.comm;
+package robot.comm;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedReader;

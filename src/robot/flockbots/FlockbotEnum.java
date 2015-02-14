@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package sim.app.bounties.robot.flockbots;
+package robot.flockbots;
 
 /**
  * Each flockbot has some special things so set them here

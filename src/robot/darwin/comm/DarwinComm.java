@@ -4,19 +4,16 @@
  * and open the template in the editor.
  */
 
-package sim.app.bounties.robot.darwin.comm;
+package robot.darwin.comm;
 
 import com.google.gson.Gson;
-import java.io.BufferedInputStream;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.io.Reader;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import sim.app.bounties.robot.comm.Communication;
-import sim.app.bounties.robot.comm.Parse;
-import sim.app.bounties.robot.comm.StringComm;
+import robot.comm.Communication;
+import robot.comm.Parse;
 
 /**
  * 

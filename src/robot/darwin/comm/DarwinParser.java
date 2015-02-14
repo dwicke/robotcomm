@@ -4,11 +4,11 @@
  * and open the template in the editor.
  */
 
-package sim.app.bounties.robot.darwin.comm;
+package robot.darwin.comm;
 
 import com.google.gson.Gson;
-import sim.app.bounties.robot.comm.DefaultParser;
-import sim.app.bounties.robot.darwin.features.DarwinFeature;
+import robot.comm.DefaultParser;
+import robot.darwin.features.DarwinFeature;
 
 /**
  *

@@ -4,13 +4,11 @@
  * and open the template in the editor.
  */
 
-package sim.app.bounties.robot.flockbots.comm;
+package robot.flockbots.comm;
 
-import sim.app.bounties.robot.comm.Parse;
-import sim.app.bounties.robot.comm.Communication;
+import robot.comm.Parse;
+import robot.comm.Communication;
 import java.io.IOException;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 /**
  *

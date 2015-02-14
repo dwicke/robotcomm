@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package sim.app.bounties.robot.behaviors;
+package robot.behaviors;
 
 /**
  * Enums can implement this so that they can be easily integrated into 
